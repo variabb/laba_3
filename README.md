@@ -221,7 +221,3 @@ D:\burunduk\univer\ek\laba_3\
 - `client/src/index.css`
 - `client/public/index.html`
 - `client/package.json`
-
-**Документація:**
-
-- `ЗВІТ_Лабораторна_3.md`
